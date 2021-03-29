@@ -1,3 +1,0 @@
-include ':hellocharts-library-1.5.8'
-include ':app'
-rootProject.name = "H8F"
